@@ -1,4 +1,4 @@
-# NCSA SOC Dashboard
+# SOC Dashboard
 
 A web-based Security Operations Center (SOC) dashboard built to monitor network assets, resolve security threats, and track live hardware telemetry. 
 
